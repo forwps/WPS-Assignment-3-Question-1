@@ -1,0 +1,12 @@
+xml version=1.0 encoding=UTF-8
+web-app xmlnsxsi=httpwww.w3.org2001XMLSchema-instance xmlns=httpxmlns.jcp.orgxmlnsjavaee xsischemaLocation=httpxmlns.jcp.orgxmlnsjavaee httpxmlns.jcp.orgxmlnsjavaeeweb-app_4_0.xsd id=WebApp_ID version=4.0
+  display-nameQuestion1Assgn3display-name
+  welcome-file-list
+    welcome-fileindex.htmlwelcome-file
+    welcome-fileindex.htmwelcome-file
+    welcome-fileindex.jspwelcome-file
+    welcome-filedefault.htmlwelcome-file
+    welcome-filedefault.htmwelcome-file
+    welcome-filedefault.jspwelcome-file
+  welcome-file-list
+web-app
